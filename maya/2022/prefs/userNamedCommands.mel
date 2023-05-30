@@ -1,0 +1,22 @@
+//Maya Preference 2022 (Release 1)
+//
+//
+
+nameCommand
+	-annotation "DisplayWireframeNameCommand"
+	-sourceType "mel"
+	-command ("DisplayWireframe")
+	DisplayWireframeNameCommand;
+
+nameCommand
+	-annotation "HideWireFrameNameCommand"
+	-sourceType "mel"
+	-command ("HideWireFrame")
+	HideWireFrameNameCommand;
+
+nameCommand
+	-annotation "BoundGroupNameCommand"
+	-sourceType "mel"
+	-command ("BoundGroup")
+	BoundGroupNameCommand;
+
