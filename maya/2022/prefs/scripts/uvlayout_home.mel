@@ -1,3 +1,0 @@
-// Return UVLayout install directory
-global proc string uvlayout_home()
-{ return "C:/Soft/UVLayout"; }
